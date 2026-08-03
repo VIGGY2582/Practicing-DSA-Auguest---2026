@@ -1,4 +1,4 @@
-// 
+// 1406. Stone Game III
 
 class Solution {
     static final String[] s = { "Bob", "Tie", "Alice" };
