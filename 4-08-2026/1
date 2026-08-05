@@ -1,3 +1,5 @@
+// 3310. Remove Methods From Project
+
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<Integer>[] edges = new ArrayList[n];
