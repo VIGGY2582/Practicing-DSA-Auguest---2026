@@ -1,3 +1,5 @@
+// 2213. Longest Substring of One Repeating Character
+
 class Solution {
     static class Node {char leftChar; char rightChar; int length; int prefix; int suffix;
 int best;
